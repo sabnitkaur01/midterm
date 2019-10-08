@@ -1,5 +1,5 @@
 # midterm
-![teammates](images/image.jpg "team")
+![teammates](images/team.jpg "team")
 
 this is our first midterm test.
 i guess we are going right :)
